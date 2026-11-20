@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./images/banner.png" alt="HOLOMED Banner" width="100%">
+  <img src="./Image/banner.png" alt="HOLOMED Banner" width="100%">
 </p>
 
 <h1 align="center">HOLOMED</h1>
@@ -30,7 +30,7 @@
 ## 🖼️ Platform Preview
 
 <p align="center">
-  <img src="./images/dashboard-preview.png" alt="HOLOMED Dashboard Preview" width="100%">
+  <img src="./Image/dashboard-preview.png" alt="HOLOMED Dashboard Preview" width="100%">
 </p>
 
 ## Architecture
