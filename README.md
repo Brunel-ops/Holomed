@@ -340,6 +340,14 @@ Future ADRs will be added as the project evolves.
 - [ ] Trend analysis
 - [ ] Conversational assistant
 
+Phase 6 - Governance & Lifecycle
+
+- [ ] Technology inventory
+- [ ] Dependency monitoring
+- [ ] Source lifecycle management
+- [ ] Obsolescence dashboard
+- [ ] Automated update alerts
+
 ---
 
 ## Contributing
@@ -368,11 +376,15 @@ docs/
 │   └── ADR-004-data-governance.md
 │
 └── governance/
-    ├── git-workflow.md
-    ├── contribution-guidelines.md
-    ├── data-collection-policy.md
-    ├── data-processing-policy.md
-    └── data-visualization-policy.md
+  ├── git-workflow.md
+  ├── contribution-guidelines.md
+  ├── data-collection-policy.md
+  ├── data-processing-policy.md
+  ├── data-visualization-policy.md
+  ├── system-lifecycle-policy.md
+  ├── criticality-matrix.md
+  ├── component-registry.md
+  └── quarterly-review-procedure.md
 ```
 
 This documentation provides project governance, planning, architecture decisions and data management standards.
